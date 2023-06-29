@@ -18,7 +18,7 @@ a user-friendly interface.
 
 1. Clone this repository:
     ```
-    git clone https://github.com/username/repo.git  *// replace with your actual repo URL*
+    git clone https://github.com/JustThatGuy01/jarvis-stream.git
     ```
 
 2. Install the required packages:
